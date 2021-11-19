@@ -1,0 +1,6 @@
+{
+  "appTitle": "niji_devtools",
+  "@appTitle": {
+    "description": "The title of the application"
+  }
+}
